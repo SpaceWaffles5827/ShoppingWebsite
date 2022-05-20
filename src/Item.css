@@ -1,0 +1,12 @@
+.ItemBox{
+    background-color: rgba(255, 235, 205, 0.514);
+    margin: 10px;
+    padding: 5px;
+}
+.ItemBox:hover{
+    cursor: pointer;
+}
+.ItemBox img{
+    height: 100%;
+    width: 100%;
+}
